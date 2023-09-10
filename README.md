@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JonAbshiro
 - 👀 I’m interested in code, gaming, working out.
-- 🌱 I’m currently learning Python and how to use gitHub
-- 💞️ I’m looking to collaborate on nothing currently
+- 🌱 I’m currently learning Python and Reactjs.
 - 📫 How to reach me: jonabshiro123@gmail.com
 
 <!---
